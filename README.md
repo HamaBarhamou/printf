@@ -1,5 +1,9 @@
-# printf implemantation
- </br>
-beautiful the header of my files isn't it? You can make your own with this open source project. very easy to use
-https://github.com/HamaBarhamou/ALX-Header</br></br>
+#0x11. C - printf
+#Team: Djogona Mahamat Belna & ISSAKA hama Barhamou
+</br>
+printf is the C language function to do formatted printing. The same function is also available in
+PERL.
+</br>
+In this project, We write our own printf function.
+</br>
 
